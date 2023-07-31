@@ -1206,3 +1206,7 @@ section {
 #footer .credits {
   font-size: 13px;
 }
+
+.detail-il {
+  list-style-type: none;
+}
