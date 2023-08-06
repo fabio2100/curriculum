@@ -211,7 +211,7 @@
    */
   const portfolioDetailsLightbox = GLightbox({
     selector: '.portfolio-details-lightbox',
-    width: '90%',
+    width: '50%',
     height: '90vh'
   });
 
@@ -249,6 +249,7 @@
       clickable: true
     }
   });
+
 
   /**
    * Animation on scroll
