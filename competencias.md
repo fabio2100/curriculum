@@ -4,4 +4,5 @@ Agregar sección con competencias
 * Serverless conceptos y demás teoría
 * Cifrado, hasheado
 * Consumo de apis, spotify, postman 
-* 
+* Premios-> 
+* Menciones -> colocar mención en diario la nación, nota de argentina.gob.ar
