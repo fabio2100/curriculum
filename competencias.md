@@ -6,3 +6,5 @@ Agregar sección con competencias
 * Consumo de apis, spotify, postman 
 * Premios-> 
 * Menciones -> colocar mención en diario la nación, nota de argentina.gob.ar
+* Perfiles links -> w3 school, hackerranck, matlab cody
+* Conocimientos técnicos
