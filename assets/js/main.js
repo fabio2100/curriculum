@@ -267,5 +267,26 @@
    * Initiate Pure Counter 
    */
   new PureCounter();
-
+  document.getElementById('enviarMail').addEventListener('click',function(){
+    Email.send({
+    Host : "smtp.elasticemail.com",
+    Username : "squizzato.fabio@gmail.com",
+    Password : "C60CB7E19DAEB06F3CF73854C2B4231B585E",
+    To : 'fabio_s2@hotmail.com',
+    From : 'squizzato.fabio@gmail.com',
+    Subject : document.getElementById('asuntoMail').value,
+    Body : `${document.getElementById('mensajeMail').value} ${document.getElementById('emailMail').value} ${document.getElementById('nombreMail').value}`
+}).then(function(response){
+  console.log({response})
+  var thisForm = document.getElementById('formMail');
+  thisForm.querySelector('.loading').classList.remove('d-block');
+      if (data.trim() == 'OK') {
+        thisForm.querySelector('.sent-message').classList.add('d-block');
+        thisForm.reset(); 
+      } else {
+        throw new Error(data ? data : 'Form submission failed and no error message returned from: ' + action); 
+      }
+}
+);
+  })
 })()

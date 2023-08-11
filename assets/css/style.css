@@ -1216,3 +1216,17 @@ section {
   max-width: 25px;
   max-height: 25px;
 }
+
+
+#enviarMail{
+  background: #0563bb;
+  border: 0;
+  padding: 10px 35px;
+  color: #fff;
+  transition: 0.4s;
+  border-radius: 50px;
+}
+
+#enviarMail:hover {
+  background: #0678e3;
+}
