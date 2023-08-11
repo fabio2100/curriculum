@@ -1210,3 +1210,9 @@ section {
 .detail-il {
   list-style-type: none;
 }
+
+
+.imgTecnologias{
+  max-width: 25px;
+  max-height: 25px;
+}
