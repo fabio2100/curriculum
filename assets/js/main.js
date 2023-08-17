@@ -211,7 +211,7 @@
    */
   const portfolioDetailsLightbox = GLightbox({
     selector: '.portfolio-details-lightbox',
-    width: '50%',
+    width: window.screen.availWidth > 768 ? '50vw' : '90vw',
     height: '90vh'
   });
 
