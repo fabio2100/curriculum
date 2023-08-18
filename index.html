@@ -78,6 +78,7 @@
   </section><!-- End Hero -->
 
   <main id="main">
+    <div id="visits"></div>
 
     <!-- ======= About Section ======= -->
     <section id="about" class="about">
@@ -906,6 +907,12 @@
   <!-- Template Main JS File -->
   <script src="assets/js/main.js"></script>
   <script src="https://smtpjs.com/v3/smtp.js"></script>
+  <script>
+    function cb(response) {
+        document.getElementById('visits').innerText = response.value;
+    }
+    </script>
+    <script async src="https://api.countapi.xyz/hit/https://fabio2100.github.io/curriculum//visits?callback=cb"></script>
 
 </body>
 
