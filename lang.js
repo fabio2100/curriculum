@@ -36,6 +36,26 @@ var arrLang = {
       "ENCRIPTATION":"Encription and hash of data",
       "DATABASE-RELATIONAL-NO-RELATIONAL":"Relational and no relational databases",
       "PROFESSIONAL-USE":"Professional usage",
+      "APRENDIZAJE":"Learning",
+      "INTERMEDIO":"Intermediate",
+      "LAMBDA-FUNCTIONS":"Lambda functions",
+      "VERCEL-FUNCTIONS":"Vercel functions",
+      "MYSQL-DATABASE":"MySql database",
+      "POSTGRES-DATABASE":"Postgresql database",
+      "MONGO-DATABASE":"Mongo database",
+      "TECHNOLOGIES":"Technologies",
+      "SSR-CSR":"Server side rendering(SSR) and Client side rendering(CSR)",
+      "SITE-TYPE":"Browser opration: Static sites vs dynamic sites",
+      "AJAX":"Knowledge and use of Asynchronous JavaScript and XML(AJAX)",
+      "SPA":"Single Page Application(SPA)",
+      "TOOLS-BROWSER":"Browser developer tools: Use of console, network, elements, styles, application tabs",
+      "STYLES":"Styles",
+      "DOM":"Knowledge and manipulation of Document Object Model(DOM) and virtual DOM",
+      "COMPUTATION":"Computation and informatics",
+      "OS":"Operative System knowledge and comprehension",
+      "PORT-ASSIGNATION":"Port assignation",
+      "SERVICES":"Operation of services and processes",
+      "LAN-INTERNET":"Local Area Network and Internet"
     },
     "es": {
       "HOME": "Inicio",
@@ -74,8 +94,27 @@ var arrLang = {
       "ENCRIPTATION":"Encriptation y hasheado de datos",
       "DATABASE-RELATIONAL-NO-RELATIONAL":"Base de datos relacionales y no relacionales",
       "PROFESSIONAL-USE":"Uso profesional",
-    }
-  };
+      "APRENDIZAJE":"En aprendizaje",
+      "INTERMEDIO":"Intermedio",
+      "LAMBDA-FUNCTIONS":"Funciones Lambda",
+      "VERCEL-FUNCTIONS":"Funciones Vercel",
+      "MYSQL-DATABASE":"Base de datos MySql",
+      "POSTGRES-DATABASE":"Basde de datos Postgresql",
+      "MONGO-DATABASE":"Base de datos Mongo",
+      "TECHNOLOGIES":"Tecnologías",
+      "SSR-CSR":"Renderizado del lado del servidor(SSR) y del lado del cliente(CSR)",
+      "SITE-TYPE":"Interpretación de funcionamiento de un navegador: sitios estáticos vs dinámicos",
+      "AJAX":"Conocimiento de significado de Asynchronous Javascript and XML y su funcionamiento",
+      "SPA":"Aplicaciones de una sola página(SPA)",
+      "TOOLS-BROWSER":"Herramientas de desarrollo de los navegadores: uso de pestañas de consola, red, elementos, estilos, aplicación",
+      "STYLES":"Estilos",
+      "DOM":"Conocimiento y manipulación de Document Object Model(DOM) y DOM virtual",
+      "COMPUTATION":"Computación e informática",
+      "OS":"Comprensión de funcionamiento de los sistemas operativos",
+      "PORT-ASSIGNATION":"Asignación de puertos",
+      "SERVICES":"Funcionamiento de servicios y procesos",
+      "LAN-INTERNET":"Redes locales e internet"
+  }}
 
   $(document).ready(function() {
     // The default language is English
