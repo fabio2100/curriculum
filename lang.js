@@ -55,7 +55,8 @@ var arrLang = {
       "OS":"Operative System knowledge and comprehension",
       "PORT-ASSIGNATION":"Port assignation",
       "SERVICES":"Operation of services and processes",
-      "LAN-INTERNET":"Local Area Network and Internet"
+      "LAN-INTERNET":"Local Area Network and Internet",
+      "MIGRATION":"Migrations",
     },
     "es": {
       "HOME": "Inicio",
@@ -113,7 +114,8 @@ var arrLang = {
       "OS":"Comprensión de funcionamiento de los sistemas operativos",
       "PORT-ASSIGNATION":"Asignación de puertos",
       "SERVICES":"Funcionamiento de servicios y procesos",
-      "LAN-INTERNET":"Redes locales e internet"
+      "LAN-INTERNET":"Redes locales e internet",
+      "MIGRATION":"Migraciones",
   }}
 
   $(document).ready(function() {
