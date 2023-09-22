@@ -79,7 +79,18 @@ var arrLang = {
       "SURGERY-PLAN":"Neuronavigation planning, approach and use during surgery",
       "SURGERY-ASSISTANCE":"Assistance to surgery by providing ultrasonic aspirator, craniotome and closure materials",
       "PORTFOLIO-DESCRIPTION":"some projects that I have carried out, whether as course completions, job proposals, professional environment or entertainment",
-      "COURSES-DESCRIPTION":"Extra training that has served for continuous updating"
+      "COURSES-DESCRIPTION":"Extra training that has served for continuous updating",
+      "ATM":"ATM Simulator",
+      "WEB-SURGERIES":"Web App sort calendar to track the surgeries of a company",
+      "WEATHER-APP":"App that allows know the weather in any city",
+      "REST-SERVER-MODEL":"Rest Server Model",
+      "PWA":"Little PWA",
+      "COMMENTARIES":"App with AMD of users and commentaries",
+      "BOLETA-UNICA-SIMULATOR":"Simulator of elections ticket",
+      "FOOTBALL-SIMULATOR":"Simulator of football tournament",
+      "COMPUTER-AIDED-DIAGNOSES":"Computer Aided Diagnoses",
+      "FFT":"Fourier Transform",
+      "BUGS-SOLUTIONS":"Solutions to bugs",
     },
     "es": {
       "HOME": "Inicio",
@@ -162,6 +173,18 @@ var arrLang = {
       "SURGERY-ASSISTANCE":"Asistencia a cirugía prestando aspirador ultrasónico, craneótomo y materiales de cierre",
       "PORTFOLIO-DESCRIPTION":"Algunos proyectos que he desarrollado, ya sea como finalizaciones de cursos, propuestas laborales, entorno profesional o entretenimiento",
       "COURSES-DESCRIPTION":"Capacitaciones extras que han servido para la actualización continua",
+      "ATM":"Simulador Cajero automático",
+      "ATM":"Simulador de Cajero Automático",
+      "WEB-SURGERIES":"Web App tipo calendario para controlar insumos y servicios de una empresa",
+      "WEATHER-APP":"App que permite conocer el clima en distintas ciudades",
+      "REST-SERVER-MODEL":"Modelo Rest Server",
+      "PWA":"Pequeña PWA",
+      "COMMENTARIES":"App con ABM para usuarios y comentarios",
+      "BOLETA-UNICA-SIMULATOR":"Simulador de Boleta Única",
+      "FOOTBALL-SIMULATOR":"Simulador de torneo de fútbol",
+      "COMPUTER-AIDED-DIAGNOSES":"Computer Aided Diagnoses",
+      "FFT":"App que permite calcular la Tranformada de Fourier",
+      "BUGS-SOLUTIONS":"Soluciones a bugs",
     }}
 
   $(document).ready(function() {
