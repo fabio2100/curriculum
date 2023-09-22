@@ -190,7 +190,6 @@ var arrLang = {
   $(document).ready(function() {
     // The default language is English
     var lang = navigator.language.slice(0,2);
-    console.log({lang})
     $(".lang").each(function(index, element) {
       $(this).text(arrLang[lang][$(this).attr("key")]);
     });
