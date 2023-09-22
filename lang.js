@@ -73,6 +73,13 @@ var arrLang = {
       "VISUAL-SOCIAL":"Making new development on NodeJS with ExpressJS using MongoDB",
       "SYSTEM-COMUNICATION":"Communications between the systems",
       "USED-TECHNOLOGIES":"Used technologies",
+      "MEDICOR-JOB":"Technical assistant in Neurosurgeries",
+      "WEB-CALENDAR":"Web App type calendar made for the company to track the surgeries of the company using Php, MySql, Bootstrap",
+      "MATERIALES-MEDICOR":"Provision of services and materials in neurosurgeries",
+      "SURGERY-PLAN":"Neuronavigation planning, approach and use during surgery",
+      "SURGERY-ASSISTANCE":"Assistance to surgery by providing ultrasonic aspirator, craniotome and closure materials",
+      "PORTFOLIO-DESCRIPTION":"some projects that I have carried out, whether as course completions, job proposals, professional environment or entertainment",
+      "COURSES-DESCRIPTION":"Extra training that has served for continuous updating"
     },
     "es": {
       "HOME": "Inicio",
@@ -148,6 +155,13 @@ var arrLang = {
       "VISUAL-SOCIAL":"Nuevo desarrollo actual realizando en NodeJS con ExpressJS usando MongoDB",
       "SYSTEM-COMUNICATION":"Comunicación entre los sistemas",
       "USED-TECHNOLOGIES":"Tecnologías usadas",
+      "MEDICOR-JOB":"Asistente técnico en servicios de Neurocirugía",
+      "WEB-CALENDAR":"Realizado de aplicación tipo calendario para controlar cirugías de la empresa usando Php, MySql, Bootstrap",
+      "MATERIALES-MEDICOR":"Prestación de servicios y materiales en neurocirugías",
+      "SURGERY-PLAN":"Planificación de neuronavegación, abordaje y utilización durante la cirugía",
+      "SURGERY-ASSISTANCE":"Asistencia a cirugía prestando aspirador ultrasónico, craneótomo y materiales de cierre",
+      "PORTFOLIO-DESCRIPTION":"Algunos proyectos que he desarrollado, ya sea como finalizaciones de cursos, propuestas laborales, entorno profesional o entretenimiento",
+      "COURSES-DESCRIPTION":"Capacitaciones extras que han servido para la actualización continua",
     }}
 
   $(document).ready(function() {
