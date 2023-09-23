@@ -91,6 +91,13 @@ var arrLang = {
       "COMPUTER-AIDED-DIAGNOSES":"Computer Aided Diagnoses",
       "FFT":"Fourier Transform",
       "BUGS-SOLUTIONS":"Solutions to bugs",
+      "JAVA-ORACLE":"Java Intermediate Oracle Sun",
+      "ACADEMIAS-UTN":"UTN Academy Mendoza",
+      "NODE-CERO":"Node: From zero to expert (Edition 2021)",
+      "JS-ES6":"Learn Javascript ES6, HTML, CSS3 and NodeJS from zero",
+      "JS-CERO":"Javascript: From zero to details (ES5)",
+      "PHP-MYSQL":"Course Php/MySql",
+      "PYTHON-CERO":"Course Python from zero",
     },
     "es": {
       "HOME": "Inicio",
@@ -185,6 +192,13 @@ var arrLang = {
       "COMPUTER-AIDED-DIAGNOSES":"Computer Aided Diagnoses",
       "FFT":"App que permite calcular la Tranformada de Fourier",
       "BUGS-SOLUTIONS":"Soluciones a bugs",
+      "JAVA-ORACLE":"Java Intermedio Oracle Sun",
+      "ACADEMIAS-UTN":"Academias UTN Mendoza",
+      "NODE-CERO":"Node: De cero a experto (Edición 2021)",
+      "JS-ES6":"Aprende Javascript ES6, HTML, CSS3 y NodeJS desde cero",
+      "JS-CERO":"Javascript: de cero hasta los detalles (ES5)",
+      "PHP-MYSQL":"Curso Php/MySql",
+      "PYTHON-CERO":"Curso Python desde 0.",
     }}
 
   $(document).ready(function() {
