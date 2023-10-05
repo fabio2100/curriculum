@@ -809,7 +809,7 @@
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
-          <h2>Contacto</h2>
+          <h2 class="lang" key="CONTACT"></h2>
         </div>
 
         <div class="row mt-1">
@@ -818,7 +818,7 @@
             <div class="info">
               <div class="address">
                 <i class="bi bi-geo-alt"></i>
-                <h4>Dirección:</h4>
+                <h4 class="lang" key="ADRESS"></h4>
                 <p>Godoy Cruz, Mendoza, Argentina</p>
               </div>
 
@@ -843,24 +843,28 @@
             <form id="formMail"  class="php-email-form">
               <div class="row">
                 <div class="col-md-6 form-group">
+                  <label for="nombreMail"><span class="LANG" key=""></span></label>
                   <input id="nombreMail"type="text" name="name" class="form-control" id="name" placeholder="Tu nombre" required>
                 </div>
                 <div  class="col-md-6 form-group mt-3 mt-md-0">
+                  <label for="emailMail"><span class="LANG" key=""></span></label>
                 <input id="emailMail" type="email" class="form-control" name="email" id="email" placeholder="Tu correo electrónico" required>
                 </div>
               </div>
               <div class="form-group mt-3">
+                <label for="asuntoMail"><span class="LANG" key=""></span></label>
                 <input type="text" id="asuntoMail" class="form-control" name="subject" id="subject" placeholder="Asunto" required>
               </div>
               <div class="form-group mt-3">
+                <label for="mensajeMail"><span class="LANG" key=""></span></label>
                 <textarea id="mensajeMail" class="form-control" name="message" rows="5" placeholder="Mensaje" required></textarea>
               </div>
               <div class="my-3">
-                <div class="loading">Cargando</div>
+                <div class="loading"><span class="LANG" key="LOADING"></span></div>
                 <div class="error-message"></div>
-                <div class="sent-message">Tu mensaje ha sido enviado. Gracias!</div>
+                <div class="sent-message"><span class="lang" key="SENT-MESSAGE"></span></div>
               </div>
-              <div class="text-center"><button id="enviarMail">Enviar mensaje</button></div>
+              <div class="text-center"><button id="enviarMail"><span class="lang" key="SEND-MESSAGE">Enviar mensaje</span></button></div>
             </form>
 
           </div>
@@ -876,7 +880,7 @@
   <footer id="footer">
     <div class="container">
       <h3>Fabio Squizzato</h3>
-      <p>No dudes en contactarme ante cualquier inquietud.</p>
+      <p class="lang" key="FOOTER-DESCRIPTION"></p>
       <div class="social-links">
         <a href="https://facebook.com/fabio21" target=”_blank” class="facebook"><i class="bx bxl-facebook"></i></a>
         <a href="https://instagram.com/fabios15" target=”_blank” class="instagram"><i class="bx bxl-instagram"></i></a>

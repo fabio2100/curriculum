@@ -8,7 +8,7 @@ var arrLang = {
       "COURSES":"Courses",
       "LANGUAGES":"Languages",
       "SKILLS":"Skills",
-      "CONTACT": "Contact me",
+      "CONTACT": "Contact",
       "BIRTHDAY":"Birthdate:",
       "CITY":"City:",
       "NATIONALITY":"Nationality:",
@@ -118,7 +118,15 @@ var arrLang = {
       "MULTI-GROUPS":"Work in multidisciplinary groups",
       "VERSIONS":"Versioned",
       "TEMPORAL-ESTIMATION":"Temporary estimates",
-
+      "ADRESS":"Adress",
+      "SENT-MESSAGE":"Your message has been sent",
+      "SEND-MESSAGE":"Send Message",
+      "FOOTER-DESCRIPTION":"Don't hesitate to contact me with any questions.",
+      "LOADING":"Loading",
+      "NAMEMAIL":"Name",
+      "emailMail":"Email",
+      "asuntoMail":"Subject",
+      "mensajeMail":"Message",
     },
     "es": {
       "HOME": "Inicio",
@@ -240,6 +248,15 @@ var arrLang = {
       "MULTI-GROUPS":"Trabajo en grupos multidisciplinarios",
       "VERSIONS":"Versionados",
       "TEMPORAL-ESTIMATION":"Estimaciones temporales",
+      "ADRESS":"Dirección",
+      "SENT-MESSAGE":"Tu mensaje ha sido enviado",
+      "SEND-MESSAGE":"Enviar mensaje",
+      "FOOTER-DESCRIPTION":"No dudes en contactarme ante cualquier inquietud",
+      "LOADING":"Cargando",
+      "NAMEMAIL":"Nombre",
+      "emailMail":"Email",
+      "asuntoMail":"Asunto",
+      "mensajeMail":"Mensaje",
     }}
 
   $(document).ready(function() {
