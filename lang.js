@@ -127,6 +127,7 @@ var arrLang = {
       "emailMail":"Email",
       "asuntoMail":"Subject",
       "mensajeMail":"Message",
+      "LEARN-REACT":"Learn React",
     },
     "es": {
       "HOME": "Inicio",
@@ -257,6 +258,7 @@ var arrLang = {
       "emailMail":"Email",
       "asuntoMail":"Asunto",
       "mensajeMail":"Mensaje",
+      "LEARN-REACT":"Aprende react",
     }}
 
   $(document).ready(function() {
