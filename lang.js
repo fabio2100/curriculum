@@ -128,6 +128,9 @@ var arrLang = {
       "asuntoMail":"Subject",
       "mensajeMail":"Message",
       "LEARN-REACT":"Learn React",
+      "PRODE-SIMULATOR":"Prode simulator",
+      "WHEATHER-APP": "Wheather App",
+      "FLAGS-GAME":"Flags game",
     },
     "es": {
       "HOME": "Inicio",
@@ -259,6 +262,9 @@ var arrLang = {
       "asuntoMail":"Asunto",
       "mensajeMail":"Mensaje",
       "LEARN-REACT":"Aprende react",
+      "PRODE-SIMULATOR":"Simulador de Prode",
+      "WHEATHER-APP": "Aplicación para conocer el clima",
+      "FLAGS-GAME":"Juego para adivinar banderas",
     }}
 
   $(document).ready(function() {
