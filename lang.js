@@ -131,6 +131,7 @@ var arrLang = {
       "PRODE-SIMULATOR":"Prode simulator",
       "WHEATHER-APP": "Wheather App",
       "FLAGS-GAME":"Flags game",
+      "FETCHING-DATA":"Fetching data from a server",
     },
     "es": {
       "HOME": "Inicio",
@@ -265,6 +266,7 @@ var arrLang = {
       "PRODE-SIMULATOR":"Simulador de Prode",
       "WHEATHER-APP": "Aplicación para conocer el clima",
       "FLAGS-GAME":"Juego para adivinar banderas",
+      "FETCHING-DATA":"Obteniendo data del servidor",
     }}
 
   $(document).ready(function() {
