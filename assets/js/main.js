@@ -271,7 +271,7 @@
     Email.send({
     Host : "smtp.elasticemail.com",
     Username : "squizzato.fabio@gmail.com",
-    Password : "C60CB7E19DAEB06F3CF73854C2B4231B585E",
+    Password : "F0CDDB93F63F6B44E396A8479E1CD4E04D15",
     To : 'fabio_s2@hotmail.com',
     From : 'squizzato.fabio@gmail.com',
     Subject : document.getElementById('asuntoMail').value,
