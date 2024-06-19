@@ -132,6 +132,7 @@ var arrLang = {
       "WHEATHER-APP": "Wheather App",
       "FLAGS-GAME":"Flags game",
       "FETCHING-DATA":"Fetching data from a server",
+      "DIPLOMATURE-BBDD":"Database Diplomature",
     },
     "es": {
       "HOME": "Inicio",
@@ -267,6 +268,7 @@ var arrLang = {
       "WHEATHER-APP": "Aplicación para conocer el clima",
       "FLAGS-GAME":"Juego para adivinar banderas",
       "FETCHING-DATA":"Obteniendo data del servidor",
+      "DIPLOMATURE-BBDD":"Diplomatura en base de datos",
     }}
 
   $(document).ready(function() {
